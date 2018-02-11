@@ -10,5 +10,5 @@ description = ""
 * sdailufsalkjdfh
 
 |head|col|
-|---|---|
+|---|:---|
 |wtf|ah|
